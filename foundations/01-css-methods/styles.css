@@ -1,0 +1,13 @@
+/* 
+Daniel Wang 5/8/24
+Odin Project Exercise.
+Style sheet for index.html of 011-cs-methods activity.
+*/
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}

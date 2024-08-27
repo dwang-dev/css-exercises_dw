@@ -1,0 +1,20 @@
+/*
+Daniel Wang 5/8/24
+The Odin Project Foundations Course
+CSS file for index.html file for 03-grouping-selectors activity.
+*/
+
+.noir,
+.yellow {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.noir {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.yellow {
+    background-color: yellow;
+}

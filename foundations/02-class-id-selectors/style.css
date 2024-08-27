@@ -1,0 +1,25 @@
+/*
+Daniel Wang 5/8/24
+The Odin Project Foundations
+CSS for 02-class-id-selectors index.html file
+*/
+
+.odd {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}

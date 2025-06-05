@@ -3,7 +3,7 @@ Daniel Wang 8/5/24
 The Odin Project Foundations
 */
 
-.container p {
+.container .text {
     background-color: yellow;
     color: #E00000;
     font-size: 20px;
